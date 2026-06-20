@@ -71,9 +71,14 @@ CSV Export
 
 Hyderabad Monitoring Stations
 
-### Source
+## Data Source
 
-OpenAQ Public API
+- This project uses publicly available air quality data obtained through the OpenAQ API.
+
+- `Source: https://openaq.org`
+
+- Data ownership remains with the original data providers and OpenAQ.
+  
 
 ---
 
@@ -157,6 +162,7 @@ Generated a clean station-level dataset suitable for:
 - Data warehouse integration
 
 ---
+
 
 ## Author
 
