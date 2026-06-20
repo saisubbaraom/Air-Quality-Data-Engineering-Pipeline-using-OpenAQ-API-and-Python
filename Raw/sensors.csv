@@ -1,0 +1,128 @@
+sensor_id,location_id,location,pollutant,unit
+712,407,"Zoo Park, Hyderabad - TSPCB",no2,µg/m³
+711,407,"Zoo Park, Hyderabad - TSPCB",o3,µg/m³
+710,407,"Zoo Park, Hyderabad - TSPCB",co,µg/m³
+715,407,"Zoo Park, Hyderabad - TSPCB",pm10,µg/m³
+714,407,"Zoo Park, Hyderabad - TSPCB",pm25,µg/m³
+713,407,"Zoo Park, Hyderabad - TSPCB",so2,µg/m³
+12235581,407,"Zoo Park, Hyderabad - TSPCB",o3,µg/m³
+12235583,407,"Zoo Park, Hyderabad - TSPCB",pm25,µg/m³
+12235582,407,"Zoo Park, Hyderabad - TSPCB",pm10,µg/m³
+4720,2459,US Diplomatic Post: Hyderabad,pm25,µg/m³
+5389,2594,"Sanathnagar, Hyderabad - TSPCB",o3,µg/m³
+9128,2594,"Sanathnagar, Hyderabad - TSPCB",so2,µg/m³
+9127,2594,"Sanathnagar, Hyderabad - TSPCB",pm25,µg/m³
+5387,2594,"Sanathnagar, Hyderabad - TSPCB",co,µg/m³
+12235400,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",pm25,µg/m³
+12235399,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",pm10,µg/m³
+12235398,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",o3,µg/m³
+14820,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",co,µg/m³
+14842,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",no2,µg/m³
+14843,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",o3,µg/m³
+14813,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",pm10,µg/m³
+15217,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",pm25,µg/m³
+15221,5599,"Bollaram Industrial Area, Hyderabad - TSPCB",so2,µg/m³
+12242119,5623,"Central University, Hyderabad - TSPCB",o3,µg/m³
+12242121,5623,"Central University, Hyderabad - TSPCB",pm25,µg/m³
+12242120,5623,"Central University, Hyderabad - TSPCB",pm10,µg/m³
+15046,5623,"Central University, Hyderabad - TSPCB",pm10,µg/m³
+15167,5623,"Central University, Hyderabad - TSPCB",so2,µg/m³
+14918,5623,"Central University, Hyderabad - TSPCB",no2,µg/m³
+15178,5623,"Central University, Hyderabad - TSPCB",pm25,µg/m³
+15034,5623,"Central University, Hyderabad - TSPCB",o3,µg/m³
+15193,5623,"Central University, Hyderabad - TSPCB",co,µg/m³
+12235504,5624,"IDA Pashamylaram, Hyderabad - TSPCB",pm10,µg/m³
+12235503,5624,"IDA Pashamylaram, Hyderabad - TSPCB",o3,µg/m³
+12235505,5624,"IDA Pashamylaram, Hyderabad - TSPCB",pm25,µg/m³
+15226,5624,"IDA Pashamylaram, Hyderabad - TSPCB",no2,µg/m³
+14928,5624,"IDA Pashamylaram, Hyderabad - TSPCB",so2,µg/m³
+15220,5624,"IDA Pashamylaram, Hyderabad - TSPCB",o3,µg/m³
+15213,5624,"IDA Pashamylaram, Hyderabad - TSPCB",pm25,µg/m³
+15230,5624,"IDA Pashamylaram, Hyderabad - TSPCB",pm10,µg/m³
+15228,5624,"IDA Pashamylaram, Hyderabad - TSPCB",co,µg/m³
+12235408,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",pm10,µg/m³
+12235409,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",pm25,µg/m³
+12235407,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",o3,µg/m³
+15254,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",pm25,µg/m³
+15233,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",so2,µg/m³
+15267,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",pm10,µg/m³
+15173,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",no2,µg/m³
+15037,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",co,µg/m³
+15188,5645,"ICRISAT Patancheru, Hyderabad - TSPCB",o3,µg/m³
+15065,5647,"Sanathnagar, Hyderabad - TSPCB",pm25,µg/m³
+15061,5647,"Sanathnagar, Hyderabad - TSPCB",so2,µg/m³
+15049,5647,"Sanathnagar, Hyderabad - TSPCB",co,µg/m³
+15051,5647,"Sanathnagar, Hyderabad - TSPCB",no2,µg/m³
+15058,5647,"Sanathnagar, Hyderabad - TSPCB",o3,µg/m³
+12242129,5647,"Sanathnagar, Hyderabad - TSPCB",pm25,µg/m³
+12242128,5647,"Sanathnagar, Hyderabad - TSPCB",o3,µg/m³
+24857,8557,Hyderabad,pm25,µg/m³
+36691,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",o3,µg/m³
+36686,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",pm25,µg/m³
+36520,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",co,µg/m³
+36692,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",no2,µg/m³
+36683,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",so2,µg/m³
+36689,10897,"ICRISAT Patancheru, Hyderabad - TSPCB",pm10,µg/m³
+12237096,344103,"ECIL Kapra, Hyderabad - TSPCB",o3,µg/m³
+12237097,344103,"ECIL Kapra, Hyderabad - TSPCB",pm10,µg/m³
+12237098,344103,"ECIL Kapra, Hyderabad - TSPCB",pm25,µg/m³
+1960395,344103,"ECIL Kapra, Hyderabad - TSPCB",o3,µg/m³
+1960397,344103,"ECIL Kapra, Hyderabad - TSPCB",co,µg/m³
+1960403,344103,"ECIL Kapra, Hyderabad - TSPCB",no2,µg/m³
+1960401,344103,"ECIL Kapra, Hyderabad - TSPCB",so2,µg/m³
+1960400,344103,"ECIL Kapra, Hyderabad - TSPCB",pm10,µg/m³
+1960399,344103,"ECIL Kapra, Hyderabad - TSPCB",pm25,µg/m³
+12237125,344104,"Kompally Municipal Office, Hyderabad - TSPCB",pm25,µg/m³
+12237124,344104,"Kompally Municipal Office, Hyderabad - TSPCB",pm10,µg/m³
+12237123,344104,"Kompally Municipal Office, Hyderabad - TSPCB",o3,µg/m³
+1960398,344104,"Kompally Municipal Office, Hyderabad - TSPCB",no2,µg/m³
+1960405,344104,"Kompally Municipal Office, Hyderabad - TSPCB",so2,µg/m³
+1960396,344104,"Kompally Municipal Office, Hyderabad - TSPCB",co,µg/m³
+1960394,344104,"Kompally Municipal Office, Hyderabad - TSPCB",pm25,µg/m³
+1960404,344104,"Kompally Municipal Office, Hyderabad - TSPCB",pm10,µg/m³
+1960402,344104,"Kompally Municipal Office, Hyderabad - TSPCB",o3,µg/m³
+12237114,344140,"Somajiguda, Hyderabad - TSPCB",o3,µg/m³
+12237115,344140,"Somajiguda, Hyderabad - TSPCB",pm10,µg/m³
+12237116,344140,"Somajiguda, Hyderabad - TSPCB",pm25,µg/m³
+1960599,344140,"Somajiguda, Hyderabad - TSPCB",so2,µg/m³
+1960600,344140,"Somajiguda, Hyderabad - TSPCB",o3,µg/m³
+1960587,344140,"Somajiguda, Hyderabad - TSPCB",pm25,µg/m³
+1960606,344140,"Somajiguda, Hyderabad - TSPCB",pm10,µg/m³
+1960604,344140,"Somajiguda, Hyderabad - TSPCB",co,µg/m³
+1960586,344140,"Somajiguda, Hyderabad - TSPCB",no2,µg/m³
+12237134,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",pm25,µg/m³
+12237133,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",pm10,µg/m³
+12237132,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",o3,µg/m³
+1960601,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",co,µg/m³
+1960613,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",no2,µg/m³
+1960597,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",pm10,µg/m³
+1960594,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",o3,µg/m³
+1960609,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",pm25,µg/m³
+1960596,344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",so2,µg/m³
+12242162,346257,"Ramachandrapuram, Hyderabad - TSPCB",o3,µg/m³
+12242163,346257,"Ramachandrapuram, Hyderabad - TSPCB",pm10,µg/m³
+12242164,346257,"Ramachandrapuram, Hyderabad - TSPCB",pm25,µg/m³
+1970973,346257,"Ramachandrapuram, Hyderabad - TSPCB",pm10,µg/m³
+1970965,346257,"Ramachandrapuram, Hyderabad - TSPCB",so2,µg/m³
+1970971,346257,"Ramachandrapuram, Hyderabad - TSPCB",no2,µg/m³
+1970974,346257,"Ramachandrapuram, Hyderabad - TSPCB",o3,µg/m³
+1970972,346257,"Ramachandrapuram, Hyderabad - TSPCB",co,µg/m³
+1970968,346257,"Ramachandrapuram, Hyderabad - TSPCB",pm25,µg/m³
+12237161,346258,"Kokapet, Hyderabad - TSPCB",pm25,µg/m³
+12237160,346258,"Kokapet, Hyderabad - TSPCB",pm10,µg/m³
+12237159,346258,"Kokapet, Hyderabad - TSPCB",o3,µg/m³
+1970969,346258,"Kokapet, Hyderabad - TSPCB",no2,µg/m³
+1970970,346258,"Kokapet, Hyderabad - TSPCB",pm25,µg/m³
+1970975,346258,"Kokapet, Hyderabad - TSPCB",so2,µg/m³
+1970966,346258,"Kokapet, Hyderabad - TSPCB",pm10,µg/m³
+1970967,346258,"Kokapet, Hyderabad - TSPCB",co,µg/m³
+12237088,352465,"New Malakpet, Hyderabad - TSPCB",pm10,µg/m³
+12237089,352465,"New Malakpet, Hyderabad - TSPCB",pm25,µg/m³
+12237087,352465,"New Malakpet, Hyderabad - TSPCB",o3,µg/m³
+2002324,352465,"New Malakpet, Hyderabad - TSPCB",co,µg/m³
+2002329,352465,"New Malakpet, Hyderabad - TSPCB",pm10,µg/m³
+2002327,352465,"New Malakpet, Hyderabad - TSPCB",pm25,µg/m³
+2002328,352465,"New Malakpet, Hyderabad - TSPCB",no2,µg/m³
+2002326,352465,"New Malakpet, Hyderabad - TSPCB",so2,µg/m³
+2002325,352465,"New Malakpet, Hyderabad - TSPCB",o3,µg/m³
+13317467,4720578,Hyderabad,pm25,µg/m³
