@@ -36,24 +36,30 @@ This project focuses on building a reliable data engineering pipeline to transfo
 
 ## ETL Architecture
 
-OpenAQ API
-↓
-Extract Pollutant Measurements
-↓
-Data Validation
-↓
-Duplicate Handling
-↓
-Missing Value Analysis
-↓
-Station Quality Assessment
-↓
-Station Filtering
-↓
-Clean AQI-Ready Dataset
-↓
-CSV Export
 
+
+
+```mermaid
+flowchart TD
+    A[OpenAQ API]
+    B[Extract Pollutant Measurements]
+    C[Data Validation]
+    D[Duplicate Handling]
+    E[Missing Value Analysis]
+    F[Station Quality Assessment]
+    G[Station Filtering]
+    H[Clean AQI-Ready Dataset]
+    I[CSV Export]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+```
 ---
 
 ## Dataset Information
